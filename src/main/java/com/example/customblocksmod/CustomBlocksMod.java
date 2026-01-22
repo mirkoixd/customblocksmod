@@ -12,6 +12,7 @@ public class CustomBlocksMod {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
         ModBlocks.BLOCKS.register(bus);
         ModItems.ITEMS.register(bus);
+        ModSounds.registerSounds();
         ModSounds.SOUNDS.register(bus);
     }
 }
