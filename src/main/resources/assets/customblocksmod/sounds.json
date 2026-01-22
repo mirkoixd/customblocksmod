@@ -1,0 +1,317 @@
+{
+  "boyardland_1": {
+    "sounds": [
+      "customblocksmod:boyardland_1"
+    ]
+  },
+  "boyardland_2": {
+    "sounds": [
+      "customblocksmod:boyardland_2"
+    ]
+  },
+  "boyardland_3": {
+    "sounds": [
+      "customblocksmod:boyardland_3"
+    ]
+  },
+  "boyardland_4": {
+    "sounds": [
+      "customblocksmod:boyardland_4"
+    ]
+  },
+  "meme_kvn": {
+    "sounds": [
+      "customblocksmod:meme_kvn"
+    ]
+  },
+  "meme_mozart": {
+    "sounds": [
+      "customblocksmod:meme_mozart"
+    ]
+  },
+  "meme_piska": {
+    "sounds": [
+      "customblocksmod:meme_piska"
+    ]
+  },
+  "meme_slower": {
+    "sounds": [
+      "customblocksmod:meme_slower"
+    ]
+  },
+  "meme_timesup": {
+    "sounds": [
+      "customblocksmod:meme_timesup"
+    ]
+  },
+  "meme_univer": {
+    "sounds": [
+      "customblocksmod:meme_univer"
+    ]
+  },
+  "perefouras_cue_1": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_1"
+    ]
+  },
+  "perefouras_cue_10": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_10"
+    ]
+  },
+  "perefouras_cue_11": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_11"
+    ]
+  },
+  "perefouras_cue_12": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_12"
+    ]
+  },
+  "perefouras_cue_13": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_13"
+    ]
+  },
+  "perefouras_cue_14": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_14"
+    ]
+  },
+  "perefouras_cue_15": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_15"
+    ]
+  },
+  "perefouras_cue_16": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_16"
+    ]
+  },
+  "perefouras_cue_17": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_17"
+    ]
+  },
+  "perefouras_cue_18": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_18"
+    ]
+  },
+  "perefouras_cue_2": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_2"
+    ]
+  },
+  "perefouras_cue_3": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_3"
+    ]
+  },
+  "perefouras_cue_4": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_4"
+    ]
+  },
+  "perefouras_cue_5": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_5"
+    ]
+  },
+  "perefouras_cue_6": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_6"
+    ]
+  },
+  "perefouras_cue_7": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_7"
+    ]
+  },
+  "perefouras_cue_8": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_8"
+    ]
+  },
+  "perefouras_cue_9": {
+    "sounds": [
+      "customblocksmod:perefouras_cue_9"
+    ]
+  },
+  "timeout": {
+    "sounds": [
+      "customblocksmod:timeout"
+    ]
+  },
+  "timeout2": {
+    "sounds": [
+      "customblocksmod:timeout2"
+    ]
+  },
+  "willy_bar": {
+    "sounds": [
+      "customblocksmod:willy_bar"
+    ]
+  },
+  "willy_bar_2": {
+    "sounds": [
+      "customblocksmod:willy_bar_2"
+    ]
+  },
+  "willy_cue_1": {
+    "sounds": [
+      "customblocksmod:willy_cue_1"
+    ]
+  },
+  "willy_cue_10": {
+    "sounds": [
+      "customblocksmod:willy_cue_10"
+    ]
+  },
+  "willy_cue_11": {
+    "sounds": [
+      "customblocksmod:willy_cue_11"
+    ]
+  },
+  "willy_cue_12": {
+    "sounds": [
+      "customblocksmod:willy_cue_12"
+    ]
+  },
+  "willy_cue_13": {
+    "sounds": [
+      "customblocksmod:willy_cue_13"
+    ]
+  },
+  "willy_cue_14": {
+    "sounds": [
+      "customblocksmod:willy_cue_14"
+    ]
+  },
+  "willy_cue_15": {
+    "sounds": [
+      "customblocksmod:willy_cue_15"
+    ]
+  },
+  "willy_cue_16": {
+    "sounds": [
+      "customblocksmod:willy_cue_16"
+    ]
+  },
+  "willy_cue_17": {
+    "sounds": [
+      "customblocksmod:willy_cue_17"
+    ]
+  },
+  "willy_cue_18": {
+    "sounds": [
+      "customblocksmod:willy_cue_18"
+    ]
+  },
+  "willy_cue_19": {
+    "sounds": [
+      "customblocksmod:willy_cue_19"
+    ]
+  },
+  "willy_cue_2": {
+    "sounds": [
+      "customblocksmod:willy_cue_2"
+    ]
+  },
+  "willy_cue_3": {
+    "sounds": [
+      "customblocksmod:willy_cue_3"
+    ]
+  },
+  "willy_cue_4": {
+    "sounds": [
+      "customblocksmod:willy_cue_4"
+    ]
+  },
+  "willy_cue_5": {
+    "sounds": [
+      "customblocksmod:willy_cue_5"
+    ]
+  },
+  "willy_cue_6": {
+    "sounds": [
+      "customblocksmod:willy_cue_6"
+    ]
+  },
+  "willy_cue_7": {
+    "sounds": [
+      "customblocksmod:willy_cue_7"
+    ]
+  },
+  "willy_cue_8": {
+    "sounds": [
+      "customblocksmod:willy_cue_8"
+    ]
+  },
+  "willy_cue_9": {
+    "sounds": [
+      "customblocksmod:willy_cue_9"
+    ]
+  },
+  "willy_cue_aaaahh": {
+    "sounds": [
+      "customblocksmod:willy_cue_aaaahh"
+    ]
+  },
+  "willy_cue_coffee": {
+    "sounds": [
+      "customblocksmod:willy_cue_coffee"
+    ]
+  },
+  "willy_cue_coffee_2": {
+    "sounds": [
+      "customblocksmod:willy_cue_coffee_2"
+    ]
+  },
+  "willy_cue_coffee_3": {
+    "sounds": [
+      "customblocksmod:willy_cue_coffee_3"
+    ]
+  },
+  "willy_cue_cough": {
+    "sounds": [
+      "customblocksmod:willy_cue_cough"
+    ]
+  },
+  "willy_cue_laugh": {
+    "sounds": [
+      "customblocksmod:willy_cue_laugh"
+    ]
+  },
+  "willy_cue_laugh_2": {
+    "sounds": [
+      "customblocksmod:willy_cue_laugh_2"
+    ]
+  },
+  "willy_cue_laugh_3": {
+    "sounds": [
+      "customblocksmod:willy_cue_laugh_3"
+    ]
+  },
+  "willy_cue_nonono": {
+    "sounds": [
+      "customblocksmod:willy_cue_nonono"
+    ]
+  },
+  "willy_cue_welcome": {
+    "sounds": [
+      "customblocksmod:willy_cue_welcome"
+    ]
+  },
+  "willy_cue_welcome_2": {
+    "sounds": [
+      "customblocksmod:willy_cue_welcome_2"
+    ]
+  },
+  "willy_cue_welcome_3": {
+    "sounds": [
+      "customblocksmod:willy_cue_welcome_3"
+    ]
+  }
+}
