@@ -15,6 +15,7 @@ public class ModSounds {
         register("boyardland_2");
         register("boyardland_3");
         register("boyardland_4");
+        register("grechia");
         register("meme_kvn");
         register("meme_mozart");
         register("meme_piska");
